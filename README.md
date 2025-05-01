@@ -7,7 +7,8 @@ The goal of this is to introduce error into a program in the effort to decrease 
 | Original Image  | Original Image + Sobel Filter  | Image with 20db PSNR(Approximated) |
 |--------|--------|--------|
 | ![alt text](https://github.com/nurpy/ApproxComputing/blob/main/lena.bmp) | ![alt text](https://github.com/nurpy/ApproxComputing/blob/main/lena.bmp) |![alt text](https://github.com/nurpy/ApproxComputing/blob/main/lena.bmp) |
+| ![alt text](https://github.com/nurpy/ApproxComputing/blob/main/lena.bmp) | ![alt text](https://github.com/nurpy/ApproxComputing/blob/main/lena.bmp) |![alt text](https://github.com/nurpy/ApproxComputing/blob/main/lena.bmp) |
 
 | Original Image + Sobel Filter  | Image with 20db PSNR(Approximated) |
 |--------|--------|
-| 100% Size | 12% size|
+| 100% Size | 12% Size|
