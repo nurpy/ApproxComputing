@@ -11,4 +11,4 @@ The goal of this is to introduce error into a program in the effort to decrease 
 
 | Original Image + Sobel Filter  | Image with 20db PSNR(Approximated) |
 |--------|--------|
-| 100% Size | 12% Size|
+| 100% Size | 53% Size|
